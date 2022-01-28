@@ -1,7 +1,7 @@
 name: cine
-description: A new Flutter package project.
+description: Cine is a flutter UI library based on the Ant design system.
 version: 0.0.1
-homepage:
+homepage: https://github.com/bontusss/cine
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_fonts: ^2.2.0
 
 dev_dependencies:
   flutter_test:
